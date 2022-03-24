@@ -1,0 +1,6 @@
+links:
+https://html.com/
+
+https://www.lipsum.com/
+
+https://tinypng.com/    ## Compressão de imagens até 20 por vez.
