@@ -1,0 +1,12 @@
+links:
+https://github.com/FrankWalczak/BootCampPhilipsDIO.git
+
+comandos no git bash
+git clone (link)       ## clonar o repositório da web no diretório local
+git add -a             ## adiciona as modificações da pasta ao repositorio local
+git add .              ## adiciona as modificações da pasta ao repositorio 
+git status             ## mostra as atualizações
+git commit -m "inclusão das anotações do curso de git/github"  
+		       ##inclusão das modificações
+git push origin main   ## comando de push pra atualizar online
+
