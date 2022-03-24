@@ -1,0 +1,13 @@
+CSS3
+
+<ul>  ## a ordem dos elementos não é importante
+item 1
+item 2
+
+<ol>  ## a ordem é importante, sendo representada por numeros, letras ou algarismos romanos
+1. item 1
+2. item 3
+
+<li>  ## Repressnta um item de uma lista
+
+
