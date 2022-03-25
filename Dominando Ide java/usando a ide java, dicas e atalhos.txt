@@ -1,0 +1,42 @@
+Usando a IDE Java
+
+control + M = mostrar e esconder janela lateral(expande a tela de coding)
+
+
+control + 3 = (abre janela de comandos) digita: git, debug, java (perspectives) selecionando a perspectiva desejada
+após isso, as mesmas ficarâo acessiveis na lateral direita superios da janela em icones
+ ao lado da lupa(que faz o mesmo papel do comando control +3)
+
+control + espaço = mostra as possíveis ações de acordo com o texto inicial digitado
+exemplo: digita: sysout e aperta o atalho ctrl + espaço(vai ferar o comando: System.out.println();)
+
+comentar as linhas de código em java, basta usar /* e agora fecha */
+
+	como criar o construtor?
+ctrl + 3, digita constru, seleciona a opção generate constru fields
+
+
+ctrl + D = (apagar a linha atual)
+
+Criar getters and setters
+ctrl + 3, digita get, seleciona getters and setters generate
+
+Criar o Equals and hashcode
+ctrl + 3, seleciona generate equals and hash code
+
+criar o to string
+ctrl + 3, digita to string, e seleciona o generate to string
+
+
+mudar parte do texto de posição, acima ou abaixo:
+seleciona o texto a ser movimentado, segura Alt + seta pra baixo/cima
+
+pra refatorar os espaços bagunçados na indentação e organizar tudo:
+ctrl + shift + f
+
+pra importar uma classe em um projeto:
+exemplo: importar a classe Gato para o primeiro programa estudado:
+ctrl + shift + O
+neste caso gerou o "import br.com.dio.model.Gato;"
+
+
